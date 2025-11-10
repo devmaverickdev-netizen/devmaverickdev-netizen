@@ -1,16 +1,54 @@
 ## Hi there 👋
 
-<!--
-**devmaverickdev-netizen/devmaverickdev-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Salom, men Maverick 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  JavaScript enthusiast | Backend Developer | Deno & Node.js | Vue.js lover
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Men haqimda
+
+Men JavaScript ekotizimida backend va frontend texnologiyalar bilan faol ishlayman. Deno.js va Node.js asosida serverlar quraman, Express bilan RESTful API’lar yarataman, Vue.js orqali interaktiv interfeyslar ishlab chiqaman.
+
+---
+
+## ⚙️ Texnologiyalar va Ko‘nikmalar
+
+### Backend
+- 🟨 **Node.js**, **Deno.js**
+- 🚀 **Express.js**, **Handlebars**
+- 🗄️ **MongoDB**, **Mongoose**
+
+### Frontend
+- 🟩 **Vue.js**
+- 🎨 HTML, CSS, JavaScript (ES6+)
+
+### Tools
+- 🧰 Git & GitHub
+- 🖥️ VS Code
+- 📦 NPM & Yarn
+
+---
+
+## 📈 GitHub Statistikasi
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maverickdev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maverickdev&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Muloqot uchun
+
+- 💼 [LinkedIn](https://linkedin.com/in/maverick)
+- 🐦 [Twitter](https://twitter.com/maverick)
+- 📬 Email: maverick@example.com
+
+---
+
+> “Kod yozish — bu san’at. Har bir satr — bu ifoda.” 🎯
+
