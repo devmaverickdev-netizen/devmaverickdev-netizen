@@ -46,7 +46,7 @@ Men JavaScript ekotizimida backend va frontend texnologiyalar bilan faol ishlaym
 
 - 💼 [LinkedIn](https://linkedin.com/in/maverick)
 - 🐦 [Twitter](https://twitter.com/maverick)
-- 📬 Email: maverick@example.com
+- 📬 Email: devmaverickdev@gmail.com
 
 ---
 
